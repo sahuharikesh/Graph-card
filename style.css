@@ -1,0 +1,7 @@
+/* media query */
+@media(max-width: 768px)
+{
+  .second-card{
+        margin: 30px 0;
+    }
+}
